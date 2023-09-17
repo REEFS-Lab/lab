@@ -1,0 +1,102 @@
+
+
+
+@media (max-width: 991px){
+
+
+
+
+}
+
+
+@media (max-width: 767px){
+    /* Banner */
+#head {
+	height: 90vh;
+
+  }
+  .banner-content p{
+    font-size: 14px;
+    margin-top: 20px;
+
+  }
+
+.banner-content{
+  margin: 15px;
+
+}
+.people-card-item{
+	padding: 15px;
+
+}
+.page-section{
+	margin: 50px 20px;
+}
+.main-container{
+  margin: 0px 20px;
+}
+
+
+.banner-content h1{
+	font-size: 36px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+}
+
+#page-header {
+	height: 25vh;
+  }
+  .page-banner-content{
+  margin: 15px;
+
+}
+
+.page-banner-content h1{
+	font-size: 34px;
+}
+.filter-container{
+	display:block;
+	margin: 10px 0px;
+  }
+  .filter-container-item{
+	margin-right: 0px;
+    margin-bottom: 20px;
+
+  }
+  .publication-filter{
+	font-size: 16px;
+    width: 100%;
+  }
+  .filter-container-item p{
+	font-size: 16px;
+    margin: 0;
+
+  }
+  .footer-logo{
+    text-align: center;
+  }
+  .people-card-content p{
+	font-size: 16px;
+}
+.people-card-content h2{
+	font-size: 26px;
+}
+.card-item-content p {
+	font-size: 18px;
+  }
+
+  .card-item {
+    margin:10px 0px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    }
+    .field_trip_img p{
+
+      font-size: 16px;
+    
+    }
+
+
+
+
+}
