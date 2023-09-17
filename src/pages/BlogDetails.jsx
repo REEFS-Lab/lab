@@ -52,6 +52,10 @@ const BlogDetails = () => {
                             <p>{FieldVisitItem.Para3}</p>
                             <p>{FieldVisitItem.Para4}</p>
 
+                            {FieldVisitItem.ExternalLink && (
+                                <a href={FieldVisitItem.ExternalLink} target='blank'> <button className="card-lg-btn">Read More </button></a>
+                            )}
+
                         </div>
 
 
@@ -60,7 +64,7 @@ const BlogDetails = () => {
 
                 </>
             )}
-<Footer/>
+            <Footer />
         </div>
     )
 }
