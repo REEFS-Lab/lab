@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lab/static/css/main.53597f0d.css",
-    "main.js": "/lab/static/js/main.b69c800f.js",
+    "main.js": "/lab/static/js/main.58a3e6c9.js",
     "static/js/164.5e12006b.chunk.js": "/lab/static/js/164.5e12006b.chunk.js",
     "static/js/585.719747b5.chunk.js": "/lab/static/js/585.719747b5.chunk.js",
     "static/js/316.fc69938b.chunk.js": "/lab/static/js/316.fc69938b.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/940.41164713.chunk.js": "/lab/static/js/940.41164713.chunk.js",
     "static/js/283.e907c088.chunk.js": "/lab/static/js/283.e907c088.chunk.js",
     "static/js/929.4f4f2283.chunk.js": "/lab/static/js/929.4f4f2283.chunk.js",
-    "static/js/680.7f05506b.chunk.js": "/lab/static/js/680.7f05506b.chunk.js",
+    "static/js/680.a5c7c693.chunk.js": "/lab/static/js/680.a5c7c693.chunk.js",
     "static/media/17a.jpg": "/lab/static/media/17a.0ebf523da824f6ace537.jpg",
     "static/media/background-1.jpg": "/lab/static/media/background-1.891d1d0b5863b64c49c3.jpg",
     "static/media/1.jpg": "/lab/static/media/1.1ce4950544692b83028b.jpg",
@@ -40,15 +40,21 @@
     "static/media/2A.jpg": "/lab/static/media/2A.c81eb26b0277df4f9559.jpg",
     "static/media/4A.jpg": "/lab/static/media/4A.d9f4d7458ce5828f6df7.jpg",
     "static/media/16.jpg": "/lab/static/media/16.5ed6dacee6075322d29a.jpg",
+    "static/media/27.jpg": "/lab/static/media/27.bb113788bd0fd294fd85.jpg",
+    "static/media/26.jpg": "/lab/static/media/26.5c2538352bb298d4d949.jpg",
     "static/media/3r.jpg": "/lab/static/media/3r.95c4d5f9a3bcbbd0f8e2.jpg",
+    "static/media/30.jpg": "/lab/static/media/30.462a7cf58825ea2f0f11.jpg",
     "static/media/21.jpg": "/lab/static/media/21.92f16952ce8f23d6715b.jpg",
     "static/media/19.jpg": "/lab/static/media/19.9df64810dde19372a15a.jpg",
+    "static/media/28.jpg": "/lab/static/media/28.ebeac7b04faa47e3909b.jpg",
     "static/media/1r.jpg": "/lab/static/media/1r.2607da4599626b234954.jpg",
     "static/media/Md Salim Akhtar.jpg": "/lab/static/media/Md Salim Akhtar.9f246e22759a2b5adcac.jpg",
     "static/media/22.jpg": "/lab/static/media/22.783bae15c7003fd1fba0.jpg",
     "static/media/12.jpg": "/lab/static/media/12.de0aef88892db5ebbe8d.jpg",
     "static/media/3.jpeg": "/lab/static/media/3.9038cbf662c517e6c21e.jpeg",
+    "static/media/29.jpg": "/lab/static/media/29.37e174d488ad24591ba9.jpg",
     "static/media/Geosciences Research.jpg": "/lab/static/media/Geosciences Research.78e81298c04dc03a4f70.jpg",
+    "static/media/31.jpg": "/lab/static/media/31.4592d59793fef20e288b.jpg",
     "static/media/7.jpeg": "/lab/static/media/7.4f6a8bef6be1c3231f6a.jpeg",
     "static/media/11.jpeg": "/lab/static/media/11.6fb31439440b467f806c.jpeg",
     "static/media/8.jpeg": "/lab/static/media/8.3c3e63dee2001b6a899b.jpeg",
@@ -97,7 +103,7 @@
     "static/media/banner-2.jpg": "/lab/static/media/banner-2.de399bf1e0c52bc5d4a2.jpg",
     "index.html": "/lab/index.html",
     "main.53597f0d.css.map": "/lab/static/css/main.53597f0d.css.map",
-    "main.b69c800f.js.map": "/lab/static/js/main.b69c800f.js.map",
+    "main.58a3e6c9.js.map": "/lab/static/js/main.58a3e6c9.js.map",
     "164.5e12006b.chunk.js.map": "/lab/static/js/164.5e12006b.chunk.js.map",
     "585.719747b5.chunk.js.map": "/lab/static/js/585.719747b5.chunk.js.map",
     "316.fc69938b.chunk.js.map": "/lab/static/js/316.fc69938b.chunk.js.map",
@@ -108,10 +114,10 @@
     "940.41164713.chunk.js.map": "/lab/static/js/940.41164713.chunk.js.map",
     "283.e907c088.chunk.js.map": "/lab/static/js/283.e907c088.chunk.js.map",
     "929.4f4f2283.chunk.js.map": "/lab/static/js/929.4f4f2283.chunk.js.map",
-    "680.7f05506b.chunk.js.map": "/lab/static/js/680.7f05506b.chunk.js.map"
+    "680.a5c7c693.chunk.js.map": "/lab/static/js/680.a5c7c693.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53597f0d.css",
-    "static/js/main.b69c800f.js"
+    "static/js/main.58a3e6c9.js"
   ]
 }
